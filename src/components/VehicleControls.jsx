@@ -258,7 +258,7 @@ const RoutingApp = () => {
     <div style={{ position: "relative", width: "100%", height: "100vh" }}>
       <div id="map" style={{ width: "100%", height: "100%" }} />
 
-      <div className="vehicalControls-container ">
+      <div className="vehicleControls-container ">
         <p className="developer">Hemanth Kumar Travel Map</p>
         <div className="controls">
           <button type="button" onClick={handlePlay}>

@@ -1,11 +1,11 @@
 import "./App.css";
-import VehicalControls from "./components/VehicalControls";
+import VehicleControls from "./components/VehicleControls.jsx";
 
 function App() {
   return (
     <div className="App">
       <div>
-        <VehicalControls />
+        <VehicleControls />
       </div>
     </div>
   );
