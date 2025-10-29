@@ -35,16 +35,16 @@ It allows users to visualize a car moving along a route between two points — w
 ##  Project Structure
 
 src/
-│
-├── assets/
-│ └── car.png                       # Custom car icon
-│
-├── components/
-│ └── VehicleControls.jsx           # Main vehicle control and map logic
-│
-├── App.js                          # Root React component
-├── index.js                        # Entry point
-└── README.md
+│                                   <br> 
+├── assets/                         <br>
+│ └── car.png                       # Custom car icon<br>
+│                                   <br>
+├── components/                     <br>
+│ └── VehicleControls.jsx           # Main vehicle control and map logic<br>
+│                                   <br>
+├── App.js                          # Root React component<br>
+├── index.js                        # Entry point<br>
+└── README.md                       <br>
 
 
     
