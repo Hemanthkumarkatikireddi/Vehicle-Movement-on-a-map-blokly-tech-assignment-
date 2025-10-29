@@ -8,20 +8,20 @@ This is a frontend-only web application that simulates a vehicle moving on a map
 I'm using **React.js**, **Leaflet**, and **Leaflet Routing Machine**.  
 It allows users to visualize a car moving along a route between two points — with speed control, play/pause functionality, and day selection (Today / Yesterday).
 
-## 🌍 Live Demo
+## Live Demo
 🔗 **Deployed on Netlify:** [View Live Project](https://lambent-ganache-e4a721.netlify.app/)
 
-## 🧠 Features
+## Features
 
-    Interactive map powered by **Leaflet.js**  
-    Real-time **vehicle movement animation**  
-    Select between **Today** and **Yesterday** routes  
-    **Speed control** – Slow / Normal / Fast / Very Fast  
-    **Play & Pause** vehicle movement anytime  
-    Automatically clears old routes when new destination is selected  
-    Fully responsive React functional component structure
+1. Interactive map powered by **Leaflet.js**  
+2. Real-time **vehicle movement animation** 
+3. Select between **Today** and **Yesterday** routes  
+4. **Speed control** – Slow / Normal / Fast / Very Fast  
+5. **Play & Pause** vehicle movement anytime  
+6. Automatically clears old routes when new destination is selected  
+7. Fully responsive React functional component structure
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Technology | Description |
 |-------------|-------------|
@@ -32,7 +32,7 @@ It allows users to visualize a car moving along a route between two points — w
 | **Netlify** | Hosting and deployment |
 
 
-## 🧩 Project Structure
+##  Project Structure
 
 src/
 │
@@ -70,6 +70,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 # Author
-K. Hemanth Kumar
-GitHub: @Hemanthkumarkatikireddi
-linkedin: in/hemanth-kumar-katikireddi
+K. Hemanth Kumar.
+GitHub: @Hemanthkumarkatikireddi.
+linkedin: in/hemanth-kumar-katikireddi.
