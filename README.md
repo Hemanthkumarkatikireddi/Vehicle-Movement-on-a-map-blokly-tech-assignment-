@@ -1,4 +1,4 @@
-"./Screenshot (1361).png"
+![Project Preview](https://raw.githubusercontent.com/Hemanthkumarkatikireddi/Vehicle-Movement-on-a-map-blokly-tech-assignment-/refs/heads/main/Screenshot%20(1361).png)
 
 # Getting Started with Create React App
 
