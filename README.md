@@ -70,6 +70,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 # Author
-K. Hemanth Kumar.
-GitHub: @Hemanthkumarkatikireddi.
-linkedin: in/hemanth-kumar-katikireddi.
+K. Hemanth Kumar.<br>
+GitHub: @Hemanthkumarkatikireddi.<br>
+linkedin: in/hemanth-kumar-katikireddi.<br>
+
